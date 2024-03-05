@@ -1,0 +1,32 @@
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteudo__titulo {
+    font-family: var(--righteous);
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFF2E7;
+    margin: 2em 0 2em 0;
+}
+
+.conteudo__texto {
+    font-family: var(--sarala);
+    font-weight: 700;
+    font-size: 18px;
+    color: #ECD6C4;
+}
+
+.mid {
+    margin: 2em 0;
+}
+
+.conteudo__strong {
+    color: #c29c7f;
+}
+
+.conteudo__hr {
+    margin-top: 5em;
+}

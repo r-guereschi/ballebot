@@ -1,0 +1,24 @@
+.cabecalho__logo {
+    width: 4%;
+    border-radius: 100px;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.cabecalho__lista {
+    display: flex;
+    gap: 2.5em;
+}
+
+.cabecalho__ancoras {
+    text-decoration: none;
+    color: var(--branco);
+    font-family: var(--sarala);
+    font-weight: 400;
+    font-size: 18px;
+}

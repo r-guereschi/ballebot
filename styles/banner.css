@@ -1,0 +1,38 @@
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 400px;
+}
+
+.descricao__titulo {
+    font-size: 64px;
+    font-weight: 400;
+    font-family: var(--righteous);
+    color: var(--branco);
+}
+
+.descricao__texto {
+    font-family: var(--sarala);
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+    margin: 1.8em 0 3em 0;
+}
+
+.descricao__botao {
+    text-decoration: none;
+    font-family: var(--sarala);
+    font-weight: 400;
+    font-size: 24px;
+    color: #2F2325;
+    border: 1px solid #ECD6C4;
+    background-color: #ECD6C4;
+    padding: 1em;
+    border-radius: 20px;
+}
+
+.banner__hr {
+    width: 17%;
+    margin-top: 2em;
+}
