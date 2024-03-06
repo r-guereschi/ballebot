@@ -32,6 +32,13 @@
     border-radius: 20px;
 }
 
+.descricao__botao:hover {
+    color: #ECD6C4;
+    border: 1px solid #2F2325;
+    background-color: #2F2325;
+    transition-duration: 250ms;
+}
+
 .banner__hr {
     width: 17%;
     margin-top: 2em;
