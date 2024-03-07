@@ -22,3 +22,9 @@
     font-weight: 400;
     font-size: 18px;
 }
+
+.cabecalho__ancoras:hover {
+    border-bottom: 3px solid var(--branco);
+    border-top: 3px solid var(--branco);
+    transition-duration: 400ms;
+}
